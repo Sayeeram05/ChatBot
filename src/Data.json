@@ -200,7 +200,7 @@
                 "4. Madurai's Thattu idly kadai",
                 "5. Chettinadu veetu suvai",
                 "6. Malabar camboose",
-                "7. Khalids Biriyani",
+                "7. Khalids Biryani",
                 "8. Kerela kuttanadan restaurent",
                 "9. Salem kulambu kadai",
                 "10. Copper kitchen restaurent"
@@ -213,7 +213,7 @@
                 "4. Madurai's Thattu idly kadai",
                 "5. Chettinadu veetu suvai",
                 "6. Malabar camboose",
-                "7. Khalids Biriyani",
+                "7. Khalids Biryani",
                 "8. Kerela kuttanadan restaurent",
                 "9. Salem kulambu kadai",
                 "10. Copper kitchen restaurent"
@@ -226,7 +226,7 @@
                 "4. Madurai's Thattu idly kadai",
                 "5. Chettinadu veetu suvai",
                 "6. Malabar camboose",
-                "7. Khalids Biriyani",
+                "7. Khalids Biryani",
                 "8. Kerela kuttanadan restaurent",
                 "9. Salem kulambu kadai",
                 "10. Copper kitchen restaurent"
@@ -239,7 +239,7 @@
                 "4. Madurai's Thattu idly kadai",
                 "5. Chettinadu veetu suvai",
                 "6. Malabar camboose",
-                "7. Khalids Biriyani",
+                "7. Khalids Biryani",
                 "8. Kerela kuttanadan restaurent",
                 "9. Salem kulambu kadai",
                 "10. Copper kitchen restaurent"
@@ -252,7 +252,7 @@
                 "4. Madurai's Thattu idly kadai",
                 "5. Chettinadu veetu suvai",
                 "6. Malabar camboose",
-                "7. Khalids Biriyani",
+                "7. Khalids Biryani",
                 "8. Kerela kuttanadan restaurent",
                 "9. Salem kulambu kadai",
                 "10. Copper kitchen restaurent"
@@ -1734,7 +1734,7 @@
             ]
         },        
         {
-            "tag": "Milkshakes",
+            "tag": "Milkshake",
             "patterns": [
                 "Where can I get the best milkshakes?",
                 "Recommend a place for good milkshakes.",
@@ -4862,7 +4862,7 @@
             ]
         },        
         {
-            "tag": "vada_pav",
+            "tag": "vada pav",
             "patterns": [
                 "Where can I get the best vada pav?",
                 "Recommend a place for vada pav.",
@@ -5440,7 +5440,7 @@
             "responses": [
                 [
                     "Here are some popular places for Irani chai you might enjoy:",
-                    "1. Aasife Briyani",
+                    "1. Aasife Biryani",
                     "2. Brew Room",
                     "3. Royal Cafe",
                     "4. Smyrna",
@@ -5453,7 +5453,7 @@
                 ],
                 [
                     "Check out these great spots for Irani chai:",
-                    "1. Aasife Briyani",
+                    "1. Aasife Biryani",
                     "2. Brew Room",
                     "3. Royal Cafe",
                     "4. Smyrna",
@@ -5466,7 +5466,7 @@
                 ],
                 [
                     "You might enjoy these top Irani chai spots:",
-                    "1. Aasife Briyani",
+                    "1. Aasife Biryani",
                     "2. Brew Room",
                     "3. Royal Cafe",
                     "4. Smyrna",
@@ -5479,7 +5479,7 @@
                 ],
                 [
                     "Here are some top-rated Irani chai places:",
-                    "1. Aasife Briyani",
+                    "1. Aasife Biryani",
                     "2. Brew Room",
                     "3. Royal Cafe",
                     "4. Smyrna",
@@ -5492,7 +5492,7 @@
                 ],
                 [
                     "These Irani chai spots come highly recommended:",
-                    "1. Aasife Briyani",
+                    "1. Aasife Biryani",
                     "2. Brew Room",
                     "3. Royal Cafe",
                     "4. Smyrna",
@@ -6886,32 +6886,32 @@
             ]
         },        
         {
-            "tag": "gobi_briyani",
+            "tag": "gobi_biryani",
             "patterns": [
-                "Where can I find the best gobi briyani?",
-                "Top places for gobi briyani near me.",
-                "Recommend a restaurant for gobi briyani.",
-                "Where can I get delicious gobi briyani?",
-                "Best gobi briyani spots in town?",
-                "Can you suggest a good place for gobi briyani?",
-                "Which restaurant serves the best gobi briyani?",
-                "Where to get gobi briyani around here?",
-                "Top-rated gobi briyani places nearby?",
-                "What’s the best spot for gobi briyani?",
-                "Where should I go for gobi briyani?",
-                "Where can I get a great gobi briyani?",
-                "Gobi briyani spots near me?",
-                "Any famous places for gobi briyani around?",
-                "Where can I find tasty gobi briyani?",
-                "Top places for gobi briyani in this area?",
-                "Suggest some good gobi briyani restaurants.",
-                "Which gobi briyani place do you recommend?",
-                "Where to find the best gobi briyani in town?",
-                "Can you recommend a top gobi briyani spot?"
+                "Where can I find the best gobi biryani?",
+                "Top places for gobi biryani near me.",
+                "Recommend a restaurant for gobi biryani.",
+                "Where can I get delicious gobi biryani?",
+                "Best gobi biryani spots in town?",
+                "Can you suggest a good place for gobi biryani?",
+                "Which restaurant serves the best gobi biryani?",
+                "Where to get gobi biryani around here?",
+                "Top-rated gobi biryani places nearby?",
+                "What’s the best spot for gobi biryani?",
+                "Where should I go for gobi biryani?",
+                "Where can I get a great gobi biryani?",
+                "Gobi biryani spots near me?",
+                "Any famous places for gobi biryani around?",
+                "Where can I find tasty gobi biryani?",
+                "Top places for gobi biryani in this area?",
+                "Suggest some good gobi biryani restaurants.",
+                "Which gobi biryani place do you recommend?",
+                "Where to find the best gobi biryani in town?",
+                "Can you recommend a top gobi biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for gobi briyani you might enjoy:",
+                    "Here are some popular places for gobi biryani you might enjoy:",
                     "1. Dindigul Thalappakatti",
                     "2. Bukhara",
                     "3. Anjappar Chettinad Restaurant",
@@ -6923,7 +6923,7 @@
                     "9. Hotel Saravana Bhavan"
                 ],
                 [
-                    "Check out these great spots for gobi briyani:",
+                    "Check out these great spots for gobi biryani:",
                     "1. Dindigul Thalappakatti",
                     "2. Bukhara",
                     "3. Anjappar Chettinad Restaurant",
@@ -6935,7 +6935,7 @@
                     "9. Hotel Saravana Bhavan"
                 ],
                 [
-                    "You might enjoy these top gobi briyani spots:",
+                    "You might enjoy these top gobi biryani spots:",
                     "1. Dindigul Thalappakatti",
                     "2. Bukhara",
                     "3. Anjappar Chettinad Restaurant",
@@ -6947,7 +6947,7 @@
                     "9. Hotel Saravana Bhavan"
                 ],
                 [
-                    "Here are some top-rated places for gobi briyani:",
+                    "Here are some top-rated places for gobi biryani:",
                     "1. Dindigul Thalappakatti",
                     "2. Bukhara",
                     "3. Anjappar Chettinad Restaurant",
@@ -6959,7 +6959,7 @@
                     "9. Hotel Saravana Bhavan"
                 ],
                 [
-                    "These gobi briyani spots come highly recommended:",
+                    "These gobi biryani spots come highly recommended:",
                     "1. Dindigul Thalappakatti",
                     "2. Bukhara",
                     "3. Anjappar Chettinad Restaurant",
@@ -6973,32 +6973,32 @@
             ]
         },        
         {
-            "tag": "mushroom_briyani",
+            "tag": "mushroom_biryani",
             "patterns": [
-                "Where can I find the best mushroom briyani?",
-                "Top places for mushroom briyani near me.",
-                "Recommend a restaurant for mushroom briyani.",
-                "Where can I get delicious mushroom briyani?",
-                "Best mushroom briyani spots in town?",
-                "Can you suggest a good place for mushroom briyani?",
-                "Which restaurant serves the best mushroom briyani?",
-                "Where to get mushroom briyani around here?",
-                "Top-rated mushroom briyani places nearby?",
-                "What’s the best spot for mushroom briyani?",
-                "Where should I go for mushroom briyani?",
-                "Where can I get a great mushroom briyani?",
-                "Mushroom briyani spots near me?",
-                "Any famous places for mushroom briyani around?",
-                "Where can I find tasty mushroom briyani?",
-                "Top places for mushroom briyani in this area?",
-                "Suggest some good mushroom briyani restaurants.",
-                "Which mushroom briyani place do you recommend?",
-                "Where to find the best mushroom briyani in town?",
-                "Can you recommend a top mushroom briyani spot?"
+                "Where can I find the best mushroom biryani?",
+                "Top places for mushroom biryani near me.",
+                "Recommend a restaurant for mushroom biryani.",
+                "Where can I get delicious mushroom biryani?",
+                "Best mushroom biryani spots in town?",
+                "Can you suggest a good place for mushroom biryani?",
+                "Which restaurant serves the best mushroom biryani?",
+                "Where to get mushroom biryani around here?",
+                "Top-rated mushroom biryani places nearby?",
+                "What’s the best spot for mushroom biryani?",
+                "Where should I go for mushroom biryani?",
+                "Where can I get a great mushroom biryani?",
+                "Mushroom biryani spots near me?",
+                "Any famous places for mushroom biryani around?",
+                "Where can I find tasty mushroom biryani?",
+                "Top places for mushroom biryani in this area?",
+                "Suggest some good mushroom biryani restaurants.",
+                "Which mushroom biryani place do you recommend?",
+                "Where to find the best mushroom biryani in town?",
+                "Can you recommend a top mushroom biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for mushroom briyani you might enjoy:",
+                    "Here are some popular places for mushroom biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. The Biryani Company",
@@ -7010,7 +7010,7 @@
                     "9. Biryani Blues"
                 ],
                 [
-                    "Check out these great spots for mushroom briyani:",
+                    "Check out these great spots for mushroom biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. The Biryani Company",
@@ -7022,7 +7022,7 @@
                     "9. Biryani Blues"
                 ],
                 [
-                    "You might enjoy these top mushroom briyani spots:",
+                    "You might enjoy these top mushroom biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. The Biryani Company",
@@ -7034,7 +7034,7 @@
                     "9. Biryani Blues"
                 ],
                 [
-                    "Here are some top-rated places for mushroom briyani:",
+                    "Here are some top-rated places for mushroom biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. The Biryani Company",
@@ -7046,7 +7046,7 @@
                     "9. Biryani Blues"
                 ],
                 [
-                    "These mushroom briyani spots come highly recommended:",
+                    "These mushroom biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. The Biryani Company",
@@ -7060,32 +7060,32 @@
             ]
         },        
         {
-            "tag": "aloo_briyani",
+            "tag": "aloo_biryani",
             "patterns": [
-                "Where can I find the best aloo briyani?",
-                "Top places for aloo briyani near me.",
-                "Recommend a restaurant for aloo briyani.",
-                "Where can I get delicious aloo briyani?",
-                "Best aloo briyani spots in town?",
-                "Can you suggest a good place for aloo briyani?",
-                "Which restaurant serves the best aloo briyani?",
-                "Where to get aloo briyani around here?",
-                "Top-rated aloo briyani places nearby?",
-                "What’s the best spot for aloo briyani?",
-                "Where should I go for aloo briyani?",
-                "Where can I get a great aloo briyani?",
-                "Aloo briyani spots near me?",
-                "Any famous places for aloo briyani around?",
-                "Where can I find tasty aloo briyani?",
-                "Top places for aloo briyani in this area?",
-                "Suggest some good aloo briyani restaurants.",
-                "Which aloo briyani place do you recommend?",
-                "Where to find the best aloo briyani in town?",
-                "Can you recommend a top aloo briyani spot?"
+                "Where can I find the best aloo biryani?",
+                "Top places for aloo biryani near me.",
+                "Recommend a restaurant for aloo biryani.",
+                "Where can I get delicious aloo biryani?",
+                "Best aloo biryani spots in town?",
+                "Can you suggest a good place for aloo biryani?",
+                "Which restaurant serves the best aloo biryani?",
+                "Where to get aloo biryani around here?",
+                "Top-rated aloo biryani places nearby?",
+                "What’s the best spot for aloo biryani?",
+                "Where should I go for aloo biryani?",
+                "Where can I get a great aloo biryani?",
+                "Aloo biryani spots near me?",
+                "Any famous places for aloo biryani around?",
+                "Where can I find tasty aloo biryani?",
+                "Top places for aloo biryani in this area?",
+                "Suggest some good aloo biryani restaurants.",
+                "Which aloo biryani place do you recommend?",
+                "Where to find the best aloo biryani in town?",
+                "Can you recommend a top aloo biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for aloo briyani you might enjoy:",
+                    "Here are some popular places for aloo biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Hotel Saravana Bhavan",
                     "3. Bukhara",
@@ -7098,7 +7098,7 @@
                     "10. Aasai Biryani"
                 ],
                 [
-                    "Check out these great spots for aloo briyani:",
+                    "Check out these great spots for aloo biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Hotel Saravana Bhavan",
                     "3. Bukhara",
@@ -7111,7 +7111,7 @@
                     "10. Aasai Biryani"
                 ],
                 [
-                    "You might enjoy these top aloo briyani spots:",
+                    "You might enjoy these top aloo biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Hotel Saravana Bhavan",
                     "3. Bukhara",
@@ -7124,7 +7124,7 @@
                     "10. Aasai Biryani"
                 ],
                 [
-                    "Here are some top-rated places for aloo briyani:",
+                    "Here are some top-rated places for aloo biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Hotel Saravana Bhavan",
                     "3. Bukhara",
@@ -7137,7 +7137,7 @@
                     "10. Aasai Biryani"
                 ],
                 [
-                    "These aloo briyani spots come highly recommended:",
+                    "These aloo biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Hotel Saravana Bhavan",
                     "3. Bukhara",
@@ -7152,32 +7152,32 @@
             ]
         },        
         {
-            "tag": "egg_briyani",
+            "tag": "egg_biryani",
             "patterns": [
-                "Where can I find the best egg briyani?",
-                "Top places for egg briyani near me.",
-                "Recommend a restaurant for egg briyani.",
-                "Where can I get delicious egg briyani?",
-                "Best egg briyani spots in town?",
-                "Can you suggest a good place for egg briyani?",
-                "Which restaurant serves the best egg briyani?",
-                "Where to get egg briyani around here?",
-                "Top-rated egg briyani places nearby?",
-                "What’s the best spot for egg briyani?",
-                "Where should I go for egg briyani?",
-                "Where can I get a great egg briyani?",
-                "Egg briyani spots near me?",
-                "Any famous places for egg briyani around?",
-                "Where can I find tasty egg briyani?",
-                "Top places for egg briyani in this area?",
-                "Suggest some good egg briyani restaurants.",
-                "Which egg briyani place do you recommend?",
-                "Where to find the best egg briyani in town?",
-                "Can you recommend a top egg briyani spot?"
+                "Where can I find the best egg biryani?",
+                "Top places for egg biryani near me.",
+                "Recommend a restaurant for egg biryani.",
+                "Where can I get delicious egg biryani?",
+                "Best egg biryani spots in town?",
+                "Can you suggest a good place for egg biryani?",
+                "Which restaurant serves the best egg biryani?",
+                "Where to get egg biryani around here?",
+                "Top-rated egg biryani places nearby?",
+                "What’s the best spot for egg biryani?",
+                "Where should I go for egg biryani?",
+                "Where can I get a great egg biryani?",
+                "Egg biryani spots near me?",
+                "Any famous places for egg biryani around?",
+                "Where can I find tasty egg biryani?",
+                "Top places for egg biryani in this area?",
+                "Suggest some good egg biryani restaurants.",
+                "Which egg biryani place do you recommend?",
+                "Where to find the best egg biryani in town?",
+                "Can you recommend a top egg biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for egg briyani you might enjoy:",
+                    "Here are some popular places for egg biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -7190,7 +7190,7 @@
                     "10. Chennai Biryani House"
                 ],
                 [
-                    "Check out these great spots for egg briyani:",
+                    "Check out these great spots for egg biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -7203,7 +7203,7 @@
                     "10. Chennai Biryani House"
                 ],
                 [
-                    "You might enjoy these top egg briyani spots:",
+                    "You might enjoy these top egg biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -7216,7 +7216,7 @@
                     "10. Chennai Biryani House"
                 ],
                 [
-                    "Here are some top-rated places for egg briyani:",
+                    "Here are some top-rated places for egg biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -7229,7 +7229,7 @@
                     "10. Chennai Biryani House"
                 ],
                 [
-                    "These egg briyani spots come highly recommended:",
+                    "These egg biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -7336,32 +7336,32 @@
             ]
         },        
         {
-            "tag": "kebab_briyani",
+            "tag": "kebab_biryani",
             "patterns": [
-                "Where can I find the best kebab briyani?",
-                "Top places for kebab briyani near me.",
-                "Recommend a restaurant for kebab briyani.",
-                "Where can I get delicious kebab briyani?",
-                "Best kebab briyani spots in town?",
-                "Can you suggest a good place for kebab briyani?",
-                "Which restaurant serves the best kebab briyani?",
-                "Where to get kebab briyani around here?",
-                "Top-rated kebab briyani places nearby?",
-                "What’s the best spot for kebab briyani?",
-                "Where should I go for kebab briyani?",
-                "Where can I get a great kebab briyani?",
-                "Kebab briyani spots near me?",
-                "Any famous places for kebab briyani around?",
-                "Where can I find tasty kebab briyani?",
-                "Top places for kebab briyani in this area?",
-                "Suggest some good kebab briyani restaurants.",
-                "Which kebab briyani place do you recommend?",
-                "Where to find the best kebab briyani in town?",
-                "Can you recommend a top kebab briyani spot?"
+                "Where can I find the best kebab biryani?",
+                "Top places for kebab biryani near me.",
+                "Recommend a restaurant for kebab biryani.",
+                "Where can I get delicious kebab biryani?",
+                "Best kebab biryani spots in town?",
+                "Can you suggest a good place for kebab biryani?",
+                "Which restaurant serves the best kebab biryani?",
+                "Where to get kebab biryani around here?",
+                "Top-rated kebab biryani places nearby?",
+                "What’s the best spot for kebab biryani?",
+                "Where should I go for kebab biryani?",
+                "Where can I get a great kebab biryani?",
+                "Kebab biryani spots near me?",
+                "Any famous places for kebab biryani around?",
+                "Where can I find tasty kebab biryani?",
+                "Top places for kebab biryani in this area?",
+                "Suggest some good kebab biryani restaurants.",
+                "Which kebab biryani place do you recommend?",
+                "Where to find the best kebab biryani in town?",
+                "Can you recommend a top kebab biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for kebab briyani you might enjoy:",
+                    "Here are some popular places for kebab biryani you might enjoy:",
                     "1. Bukhara",
                     "2. Anjappar Chettinad Restaurant",
                     "3. Dindigul Thalappakatti",
@@ -7374,7 +7374,7 @@
                     "10. Kebab Corner"
                 ],
                 [
-                    "Check out these great spots for kebab briyani:",
+                    "Check out these great spots for kebab biryani:",
                     "1. Bukhara",
                     "2. Anjappar Chettinad Restaurant",
                     "3. Dindigul Thalappakatti",
@@ -7387,7 +7387,7 @@
                     "10. Kebab Corner"
                 ],
                 [
-                    "You might enjoy these top kebab briyani spots:",
+                    "You might enjoy these top kebab biryani spots:",
                     "1. Bukhara",
                     "2. Anjappar Chettinad Restaurant",
                     "3. Dindigul Thalappakatti",
@@ -7400,7 +7400,7 @@
                     "10. Kebab Corner"
                 ],
                 [
-                    "Here are some top-rated places for kebab briyani:",
+                    "Here are some top-rated places for kebab biryani:",
                     "1. Bukhara",
                     "2. Anjappar Chettinad Restaurant",
                     "3. Dindigul Thalappakatti",
@@ -7413,7 +7413,7 @@
                     "10. Kebab Corner"
                 ],
                 [
-                    "These kebab briyani spots come highly recommended:",
+                    "These kebab biryani spots come highly recommended:",
                     "1. Bukhara",
                     "2. Anjappar Chettinad Restaurant",
                     "3. Dindigul Thalappakatti",
@@ -7428,32 +7428,32 @@
             ]
         },        
         {
-            "tag": "prawn_briyani",
+            "tag": "prawn_biryani",
             "patterns": [
-                "Where can I find the best prawn briyani?",
-                "Top places for prawn briyani near me.",
-                "Recommend a restaurant for prawn briyani.",
-                "Where can I get delicious prawn briyani?",
-                "Best prawn briyani spots in town?",
-                "Can you suggest a good place for prawn briyani?",
-                "Which restaurant serves the best prawn briyani?",
-                "Where to get prawn briyani around here?",
-                "Top-rated prawn briyani places nearby?",
-                "What’s the best spot for prawn briyani?",
-                "Where should I go for prawn briyani?",
-                "Where can I get a great prawn briyani?",
-                "Prawn briyani spots near me?",
-                "Any famous places for prawn briyani around?",
-                "Where can I find tasty prawn briyani?",
-                "Top places for prawn briyani in this area?",
-                "Suggest some good prawn briyani restaurants.",
-                "Which prawn briyani place do you recommend?",
-                "Where to find the best prawn briyani in town?",
-                "Can you recommend a top prawn briyani spot?"
+                "Where can I find the best prawn biryani?",
+                "Top places for prawn biryani near me.",
+                "Recommend a restaurant for prawn biryani.",
+                "Where can I get delicious prawn biryani?",
+                "Best prawn biryani spots in town?",
+                "Can you suggest a good place for prawn biryani?",
+                "Which restaurant serves the best prawn biryani?",
+                "Where to get prawn biryani around here?",
+                "Top-rated prawn biryani places nearby?",
+                "What’s the best spot for prawn biryani?",
+                "Where should I go for prawn biryani?",
+                "Where can I get a great prawn biryani?",
+                "Prawn biryani spots near me?",
+                "Any famous places for prawn biryani around?",
+                "Where can I find tasty prawn biryani?",
+                "Top places for prawn biryani in this area?",
+                "Suggest some good prawn biryani restaurants.",
+                "Which prawn biryani place do you recommend?",
+                "Where to find the best prawn biryani in town?",
+                "Can you recommend a top prawn biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for prawn briyani you might enjoy:",
+                    "Here are some popular places for prawn biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. Dindigul Thalappakatti",
@@ -7466,7 +7466,7 @@
                     "10. Seafood Paradise"
                 ],
                 [
-                    "Check out these great spots for prawn briyani:",
+                    "Check out these great spots for prawn biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. Dindigul Thalappakatti",
@@ -7479,7 +7479,7 @@
                     "10. Seafood Paradise"
                 ],
                 [
-                    "You might enjoy these top prawn briyani spots:",
+                    "You might enjoy these top prawn biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. Dindigul Thalappakatti",
@@ -7492,7 +7492,7 @@
                     "10. Seafood Paradise"
                 ],
                 [
-                    "Here are some top-rated places for prawn briyani:",
+                    "Here are some top-rated places for prawn biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. Dindigul Thalappakatti",
@@ -7505,7 +7505,7 @@
                     "10. Seafood Paradise"
                 ],
                 [
-                    "These prawn briyani spots come highly recommended:",
+                    "These prawn biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Bukhara",
                     "3. Dindigul Thalappakatti",
@@ -8624,7 +8624,7 @@
             ]
         },        
         {
-            "tag": "mogal_chicken_briyani",
+            "tag": "mogal_chicken_biryani",
             "patterns": [
                 "Where can I find the best Mogal chicken biryani?",
                 "Top places for Mogal chicken biryani near me.",
@@ -10715,32 +10715,32 @@
             ]
         },        
         {
-            "tag": "lollypop_briyani",
+            "tag": "lollypop_biryani",
             "patterns": [
-                "Where can I find the best lollypop briyani?",
-                "Top places for lollypop briyani near me.",
-                "Recommend a restaurant for lollypop briyani.",
-                "Where can I get delicious lollypop briyani?",
-                "Best lollypop briyani spots in town?",
-                "Can you suggest a good place for lollypop briyani?",
-                "Which restaurant serves the best lollypop briyani?",
-                "Where to get lollypop briyani around here?",
-                "Top-rated lollypop briyani places nearby?",
-                "What’s the best spot for lollypop briyani?",
-                "Where should I go for lollypop briyani?",
-                "Where can I get a great lollypop briyani?",
-                "Lollypop briyani spots near me?",
-                "Any famous places for lollypop briyani around?",
-                "Where can I find tasty lollypop briyani?",
-                "Top places for lollypop briyani in this area?",
-                "Suggest some good lollypop briyani restaurants.",
-                "Which lollypop briyani place do you recommend?",
-                "Where to find the best lollypop briyani in town?",
-                "Can you recommend a top lollypop briyani spot?"
+                "Where can I find the best lollypop biryani?",
+                "Top places for lollypop biryani near me.",
+                "Recommend a restaurant for lollypop biryani.",
+                "Where can I get delicious lollypop biryani?",
+                "Best lollypop biryani spots in town?",
+                "Can you suggest a good place for lollypop biryani?",
+                "Which restaurant serves the best lollypop biryani?",
+                "Where to get lollypop biryani around here?",
+                "Top-rated lollypop biryani places nearby?",
+                "What’s the best spot for lollypop biryani?",
+                "Where should I go for lollypop biryani?",
+                "Where can I get a great lollypop biryani?",
+                "Lollypop biryani spots near me?",
+                "Any famous places for lollypop biryani around?",
+                "Where can I find tasty lollypop biryani?",
+                "Top places for lollypop biryani in this area?",
+                "Suggest some good lollypop biryani restaurants.",
+                "Which lollypop biryani place do you recommend?",
+                "Where to find the best lollypop biryani in town?",
+                "Can you recommend a top lollypop biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for lollypop briyani you might enjoy:",
+                    "Here are some popular places for lollypop biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10753,7 +10753,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "Check out these great spots for lollypop briyani:",
+                    "Check out these great spots for lollypop biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10766,7 +10766,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "You might enjoy these top lollypop briyani spots:",
+                    "You might enjoy these top lollypop biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10779,7 +10779,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "Here are some top-rated places for lollypop briyani:",
+                    "Here are some top-rated places for lollypop biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10792,7 +10792,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "These lollypop briyani spots come highly recommended:",
+                    "These lollypop biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10807,32 +10807,32 @@
             ]
         },        
         {
-            "tag": "chicken_65_briyani",
+            "tag": "chicken_65_biryani",
             "patterns": [
-                "Where can I find the best chicken 65 briyani?",
-                "Top places for chicken 65 briyani near me.",
-                "Recommend a restaurant for chicken 65 briyani.",
-                "Where can I get delicious chicken 65 briyani?",
-                "Best chicken 65 briyani spots in town?",
-                "Can you suggest a good place for chicken 65 briyani?",
-                "Which restaurant serves the best chicken 65 briyani?",
-                "Where to get chicken 65 briyani around here?",
-                "Top-rated chicken 65 briyani places nearby?",
-                "What’s the best spot for chicken 65 briyani?",
-                "Where should I go for chicken 65 briyani?",
-                "Where can I get a great chicken 65 briyani?",
-                "Chicken 65 briyani spots near me?",
-                "Any famous places for chicken 65 briyani around?",
-                "Where can I find tasty chicken 65 briyani?",
-                "Top places for chicken 65 briyani in this area?",
-                "Suggest some good chicken 65 briyani restaurants.",
-                "Which chicken 65 briyani place do you recommend?",
-                "Where to find the best chicken 65 briyani in town?",
-                "Can you recommend a top chicken 65 briyani spot?"
+                "Where can I find the best chicken 65 biryani?",
+                "Top places for chicken 65 biryani near me.",
+                "Recommend a restaurant for chicken 65 biryani.",
+                "Where can I get delicious chicken 65 biryani?",
+                "Best chicken 65 biryani spots in town?",
+                "Can you suggest a good place for chicken 65 biryani?",
+                "Which restaurant serves the best chicken 65 biryani?",
+                "Where to get chicken 65 biryani around here?",
+                "Top-rated chicken 65 biryani places nearby?",
+                "What’s the best spot for chicken 65 biryani?",
+                "Where should I go for chicken 65 biryani?",
+                "Where can I get a great chicken 65 biryani?",
+                "Chicken 65 biryani spots near me?",
+                "Any famous places for chicken 65 biryani around?",
+                "Where can I find tasty chicken 65 biryani?",
+                "Top places for chicken 65 biryani in this area?",
+                "Suggest some good chicken 65 biryani restaurants.",
+                "Which chicken 65 biryani place do you recommend?",
+                "Where to find the best chicken 65 biryani in town?",
+                "Can you recommend a top chicken 65 biryani spot?"
             ],
             "responses": [
                 [
-                    "Here are some popular places for chicken 65 briyani you might enjoy:",
+                    "Here are some popular places for chicken 65 biryani you might enjoy:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10845,7 +10845,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "Check out these great spots for chicken 65 briyani:",
+                    "Check out these great spots for chicken 65 biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10858,7 +10858,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "You might enjoy these top chicken 65 briyani spots:",
+                    "You might enjoy these top chicken 65 biryani spots:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10871,7 +10871,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "Here are some top-rated places for chicken 65 briyani:",
+                    "Here are some top-rated places for chicken 65 biryani:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -10884,7 +10884,7 @@
                     "10. Nawab's Kebab"
                 ],
                 [
-                    "These chicken 65 briyani spots come highly recommended:",
+                    "These chicken 65 biryani spots come highly recommended:",
                     "1. Anjappar Chettinad Restaurant",
                     "2. Dindigul Thalappakatti",
                     "3. Bukhara",
@@ -15896,21 +15896,21 @@
             "patterns": [
               "Where can I find the best butter vada pav?",
               "Recommend places for butter vada pav",
-              "Looking for good butter vada pav spots",
+              "Looking for good butter-laden vada pav spots",
               "Top spots for butter vada pav",
               "Best butter vada pav",
               "Where to enjoy butter vada pav?",
-              "Where can I find delicious butter vada pav?",
+              "Where can I find delicious butter-laden vada pav?",
               "Best butter vada pav places nearby",
               "Top recommendations for butter vada pav",
               "Where can I get some tasty butter vada pav?",
               "Looking for popular butter vada pav spots",
               "Best butter vada pav joints",
-              "Where to eat butter vada pav?",
+              "Where to eat butter-laden vada pav?",
               "Best places for butter vada pav near me",
               "Top butter vada pav eateries",
               "Where to get crispy butter vada pav?",
-              "Where's a good place for butter vada pav?",
+              "Where's a good place for butter-laden vada pav?",
               "Best butter vada pav in this area",
               "Top butter vada pav spots around",
               "Looking for butter vada pav places"
@@ -18730,28 +18730,28 @@
             ]
           },
           {
-            "tag": "Vegetable_Maggi",
+            "tag": "Veg_Maggi",
             "patterns": [
-              "Where can I find the best vegetable maggi?",
+              "Where can I find the best vegetarian maggi?",
               "Looking for places serving vegetable maggi, any suggestions?",
-              "Which restaurants offer vegetable maggi near me?",
+              "Which restaurants offer veg maggi near me?",
               "Can you suggest a spot for vegetable maggi?",
-              "Where’s the top spot for vegetable maggi?",
-              "Craving some vegetable maggi, where should I go?",
-              "I need recommendations for vegetable maggi around here",
-              "Who serves the best vegetable maggi?",
-              "Where can I grab delicious vegetable maggi?",
+              "Where’s the top spot for vegetarian maggi?",
+              "Craving some veg maggi, where should I go?",
+              "I need recommendations for vegetarian maggi around here",
+              "Who serves the best veg maggi?",
+              "Where can I grab delicious vegetarian maggi?",
               "What’s a good place for vegetable maggi near me?",
               "Any local spots known for their vegetable maggi?",
               "What’s the best restaurant for vegetable maggi in the area?",
-              "I’m in the mood for vegetable maggi, where should I eat?",
+              "I’m in the mood for veg maggi, where should I eat?",
               "Find me a place with tasty vegetable maggi",
-              "Which eateries serve quality vegetable maggi?",
+              "Which eateries serve quality vegetarian maggi?",
               "Can you guide me to the best vegetable maggi around?",
-              "Show me restaurants with the best vegetable maggi nearby",
+              "Show me restaurants with the best veg maggi nearby",
               "Where do they serve top-rated vegetable maggi?",
-              "Looking for the most flavorful vegetable maggi",
-              "Suggest a good restaurant for vegetable maggi"
+              "Looking for the most flavorful veg maggi",
+              "Suggest a good restaurant for vegetarian maggi"
             ],
             "responses": [
               [
@@ -19645,98 +19645,6 @@
                 "7. Tandoor Twist",
                 "8. Maggi Delight",
                 "9. Noodle Hub",
-                "10. Spice Corner"
-              ]
-            ]
-          },
-          {
-            "tag": "Veg_Maggi",
-            "patterns": [
-              "Where can I get veg maggi nearby?",
-              "Looking for places serving vegetable maggi?",
-              "Who serves the best veg maggi?",
-              "Craving veg maggi, where to go?",
-              "Which spot offers delicious veg maggi?",
-              "Who’s known for their veg maggi?",
-              "Where can I find tasty vegetable maggi?",
-              "Show me places with veg maggi",
-              "Who makes the best veg maggi?",
-              "Where do they serve veg maggi?",
-              "Which restaurant offers veg maggi?",
-              "Can you find a place with veg maggi?",
-              "Where’s the top spot for veg maggi?",
-              "Any restaurants serving veg maggi?",
-              "Who makes yummy veg maggi?",
-              "Where can I eat veg maggi today?",
-              "Where can I grab veg maggi near me?",
-              "Any spots known for vegetable maggi?",
-              "Looking for the best veg maggi?",
-              "Show me where to find veg maggi"
-            ],
-            "responses": [
-              [
-                "Here are some places for veg maggi:",
-                "1. Maggi House",
-                "2. Veggie Delight",
-                "3. Flavour Fusion",
-                "4. Maggi Mania",
-                "5. Street Corner",
-                "6. Noodle Nation",
-                "7. Quick Bite",
-                "8. Veggie Hub",
-                "9. Noodle Palace",
-                "10. Spice Corner"
-              ],
-              [
-                "Best spots for veg maggi nearby:",
-                "1. Maggi House",
-                "2. Veggie Delight",
-                "3. Flavour Fusion",
-                "4. Maggi Mania",
-                "5. Street Corner",
-                "6. Noodle Nation",
-                "7. Quick Bite",
-                "8. Veggie Hub",
-                "9. Noodle Palace",
-                "10. Spice Corner"
-              ],
-              [
-                "Top places for vegetable maggi:",
-                "1. Maggi House",
-                "2. Veggie Delight",
-                "3. Flavour Fusion",
-                "4. Maggi Mania",
-                "5. Street Corner",
-                "6. Noodle Nation",
-                "7. Quick Bite",
-                "8. Veggie Hub",
-                "9. Noodle Palace",
-                "10. Spice Corner"
-              ],
-              [
-                "You can try veg maggi at these places:",
-                "1. Maggi House",
-                "2. Veggie Delight",
-                "3. Flavour Fusion",
-                "4. Maggi Mania",
-                "5. Street Corner",
-                "6. Noodle Nation",
-                "7. Quick Bite",
-                "8. Veggie Hub",
-                "9. Noodle Palace",
-                "10. Spice Corner"
-              ],
-              [
-                "Check out these spots for vegetable maggi:",
-                "1. Maggi House",
-                "2. Veggie Delight",
-                "3. Flavour Fusion",
-                "4. Maggi Mania",
-                "5. Street Corner",
-                "6. Noodle Nation",
-                "7. Quick Bite",
-                "8. Veggie Hub",
-                "9. Noodle Palace",
                 "10. Spice Corner"
               ]
             ]
@@ -31792,8 +31700,8 @@
                     "10. Restaurant J"
                   ]
                 ]
-              }
-           
+              },
+              
           
           
           
